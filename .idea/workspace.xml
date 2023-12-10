@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69929220-913b-4db6-b685-3667aa209aea" name="变更" comment="add yml">
+    <list default="true" id="69929220-913b-4db6-b685-3667aa209aea" name="变更" comment="update testFile">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/LargestNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LargestNumberTest.java" afterDir="false" />
     </list>
@@ -44,7 +45,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "项目",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
@@ -66,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702196737650</updated>
-      <workItem from="1702196738762" duration="1120000" />
+      <workItem from="1702196738762" duration="4287000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1702197154899</created>
@@ -82,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702197317422</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update testFile">
+      <created>1702197908402</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702197908402</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="add yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="add yml" />
+    <MESSAGE value="update testFile" />
+    <option name="LAST_COMMIT_MESSAGE" value="update testFile" />
   </component>
 </project>
