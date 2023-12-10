@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69929220-913b-4db6-b685-3667aa209aea" name="变更" comment="update testFile">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yml" afterDir="false" />
+    <list default="true" id="69929220-913b-4db6-b685-3667aa209aea" name="变更" comment="update yml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/LargestNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LargestNumberTest.java" afterDir="false" />
     </list>
@@ -15,6 +14,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -67,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702196737650</updated>
-      <workItem from="1702196738762" duration="4287000" />
+      <workItem from="1702196738762" duration="4956000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1702197154899</created>
@@ -90,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702197908402</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update yml">
+      <created>1702217879450</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702217879450</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +111,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="add yml" />
     <MESSAGE value="update testFile" />
-    <option name="LAST_COMMIT_MESSAGE" value="update testFile" />
+    <MESSAGE value="update yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update yml" />
   </component>
 </project>
